@@ -1,0 +1,13 @@
+.Responsive
+{
+
+    min-height: 200vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgba(255, 255, 255, 0.316);
+}
